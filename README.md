@@ -1,7 +1,7 @@
 # COVID19REACT
 A covid19 Web App
 
-[https://covid19.ethicalhub.tech](https://covid19.ethicalhub.tech)
+[http://covid19ngr.herokuapp.com/](http://covid19ngr.herokuapp.com/)
 
 ![image](./src/assest/covid19.ethicalhub.tech.png)
 
