@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-export const API_URL = ""
+export const API_URL = "https://covid19ngr.herokuapp.com"
 
 export const fetchNationalTotals = async () => {
   try {
